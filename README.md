@@ -1,4 +1,4 @@
-# Project_01
+# Real Roller
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository is an application to help keep dungeon masters organized. It con
 
 ## Installation
 
-* Visit https://github.com/AmyPaschke/Project_01
+* Visit https://github.com/ohnobenito/RealmRoller
 
 * Clone the repository with Git Bash(Windows) or Terminal(Mac) in directory of your choosing. 
     $ git clone git@github.com:AmyPaschke/Project_01.git 
@@ -25,7 +25,7 @@ This repository is an application to help keep dungeon masters organized. It con
 
 ## Example
 
-Project can be viewed at: https://amypaschke.github.io/Project_01/  
+Project can be viewed at: https://ohnobenito.github.io/RealmRoller/  
 
 Fullpage image
 
